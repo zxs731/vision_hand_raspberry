@@ -1,0 +1,7 @@
+mediapipe 
+opencv-python 
+numpy
+openai
+azure.cognitiveservices.speech
+python-dotenv
+httpx
